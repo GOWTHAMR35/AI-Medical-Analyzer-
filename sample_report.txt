@@ -1,0 +1,50 @@
+CITY DIAGNOSTICS LAB
+123 Health Street, Medical District
+Phone: +1-800-555-0199
+
+PATIENT LABORATORY REPORT
+==========================
+Patient Name : John Doe
+Age          : 45 Years
+Sex          : Male
+Ref. Doctor  : Dr. Sarah Williams
+Sample Type  : Venous Blood
+Report Date  : 2024-01-15
+
+COMPLETE BLOOD COUNT (CBC)
+--------------------------
+Hemoglobin (Hb)       : 10.5  g/dL        [Normal: 13.0 - 17.5]  *** LOW ***
+RBC Count             : 4.1   million/uL   [Normal: 4.5 - 5.5]
+WBC Count             : 9500  cells/uL     [Normal: 4000 - 11000]
+Platelet Count        : 210   thousand/uL  [Normal: 150 - 400]
+
+BLOOD GLUCOSE
+--------------------------
+Fasting Blood Glucose : 165   mg/dL        [Normal: 70 - 99]      *** HIGH ***
+HbA1c                 : 7.8   %            [Normal: < 5.7]         *** HIGH ***
+
+LIPID PROFILE
+--------------------------
+Total Cholesterol     : 242   mg/dL        [Normal: < 200]         *** HIGH ***
+HDL Cholesterol       : 38    mg/dL        [Normal: > 40]          *** LOW ***
+LDL Cholesterol       : 158   mg/dL        [Normal: < 100]         *** HIGH ***
+Triglycerides         : 230   mg/dL        [Normal: < 150]         *** HIGH ***
+
+KIDNEY FUNCTION
+--------------------------
+Creatinine            : 1.0   mg/dL        [Normal: 0.6 - 1.2]    Normal
+Blood Urea (BUN)      : 18    mg/dL        [Normal: 7 - 20]       Normal
+
+THYROID PROFILE
+--------------------------
+TSH                   : 3.2   mIU/L        [Normal: 0.4 - 4.0]    Normal
+
+BLOOD PRESSURE (at time of sample collection)
+--------------------------
+Blood Pressure (BP)   : 145/95 mmHg        [Normal: < 120/80]     *** HIGH ***
+
+==========================
+Verified by: Dr. Emily Chen, MD (Pathologist)
+Lab License: DL-20240115-XYZ
+==========================
+DISCLAIMER: Results should be interpreted by a qualified medical professional.
